@@ -1,5 +1,5 @@
 function mensaje(){
-return "Desde main":
+return "Desde maiiin":
 }
 console.log(mensaje());
 
