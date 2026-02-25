@@ -1,5 +1,5 @@
 function mensaje(){
-return "Desde main":
+return "Desde feature":
 }
 console.log(mensaje());
 
